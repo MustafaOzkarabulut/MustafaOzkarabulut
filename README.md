@@ -14,7 +14,7 @@
 
 <p align="left">
 <a href="https://twitter.com/mustafaozkb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafaozkb" height="30" width="40" /></a>
-<a href="https://instagram.com/@mustafa_ozkarabulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mustafa_ozkarabulut" height="30" width="40" /></a>
+<a href="https://instagram.com/mustafa_ozkarabulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mustafa_ozkarabulut" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/control earth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="control earth" height="30" width="40" /></a>
 <a href="https://discord.gg/mustafaozk44#3185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mustafaozk44#3185" height="30" width="40" /></a>
 </p>
