@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaozkarabulut&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaozkarabulut" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaozkarabulut" alt="mustafaozkarabulut" /></a> </p>
 
 - 🔭 I’m currently working on [Human Resources Management System](https://github.com/MustafaOzkarabulut/HRMS-Project-frontend)
 
@@ -13,7 +12,6 @@
 
 - 📫 How to reach me **mustafaeminozkarabulut@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mustafaozkb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafaozkb" height="30" width="40" /></a>
 <a href="https://instagram.com/@mustafa_ozkarabulut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@mustafa_ozkarabulut" height="30" width="40" /></a>
@@ -29,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafaozkarabulut&show_icons=true&locale=en" alt="mustafaozkarabulut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaozkarabulut&" alt="mustafaozkarabulut" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafaozkarabulut" alt="mustafaozkarabulut" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
