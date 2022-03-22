@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/75476607/120882203-c6950a80-c5de-11eb-8cba-a0fe21115c2e.gif" height="30px"/>, I'm Mustafa Emin Özkarabulut</h1>
-<h3 align="center">I love doing sports, developing projects, working hard and learning new things.☕️ I drink tea, and cold coffee. 🔊 I like to listen to Rap and Rock and many other music genres.</h3>
+<h3 align="center">I love doing sports, developing projects, working hard and learning new things. 🔊 I like to listen to Rap and Rock and many other music genres.</h3>
 
 - 🔭 I’m currently working on [Human Resources Management System](https://github.com/MustafaOzkarabulut/HRMS-Project-frontend)
 
